@@ -1,2 +1,2 @@
 # third
-third repo
+third repository
